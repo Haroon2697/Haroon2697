@@ -1,0 +1,41 @@
+*{
+ margin: 0%;
+ padding: 0%;
+
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#container{
+    width: 80%;
+    margin: 15px auto 0px auto;
+    text-align: center;
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.input-div{
+    display: inline-block;
+}
+
+.inputs{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 20vw;
+    border-radius: 10px;
+}
+
+label{
+    font-size: 20px;
+}
